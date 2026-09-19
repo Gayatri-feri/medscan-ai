@@ -1,0 +1,10 @@
+{
+  "name": "MedScan AI",
+  "description": "Intelligent Medicine Package Information Extraction and Management System – Turn medicine package images into structured digital records.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
